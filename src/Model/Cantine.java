@@ -1,7 +1,7 @@
 package Model;
 
 public class Cantine {
-	// Bonjour
+	//Hello
     private String nom;
     private int nb_place ;
     public void setNb_place(int nb_place) {
